@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a junior web developer in both backend and frontend development. My favorite languages are JavaScript and PHP. I'm ready for any exciting adventure.
+
 <!--
 **PatriceRoot/PatriceRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
