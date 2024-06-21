@@ -4,7 +4,7 @@ I'm a junior web developer in both backend and frontend development. My favorite
 
 - 👯 I’m looking to collaborate on open source projects or any exciting aventure
 - 💬 Ask me about all you needs. I will respond you !
-- ⚡ Favorite hobbies : watching team sports(soccer and basketball), reading, listening to music and playing a little scrabble
+- ⚡ Favorite hobbies : watching team sports(soccer and basketball), reading, listening music and playing scrabble
 <!--
 **PatriceRoot/PatriceRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
