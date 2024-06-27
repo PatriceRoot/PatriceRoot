@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a junior web developer in both backend and frontend development. My favorite languages are JavaScript and PHP. I'm ready for any exciting adventure.
+I'm a web developer in both backend and frontend development. My favorite languages are JavaScript and PHP. I'm ready for any exciting adventure.
 
 - 👯 I’m looking to collaborate on open source projects or any exciting aventure
 - 💬 Ask me about all you needs. I will respond you !
