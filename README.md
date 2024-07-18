@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a web developer in both backend and frontend development. My favorite languages is JavaScript. I'm ready for any exciting adventure.
+I'm a fullstack web developer. My favorite languages is JavaScript and I'm learning TypeScript. I'm ready for any exciting adventure.
 
-- 👯 I’m looking to collaborate on open source projects or any exciting aventure
+- 👯 I’m looking to collaborate on open source projects or any exciting project. 
 - 💬 Ask me about all you needs. I will respond you !
 - ⚡ Favorite hobbies : watching team sports(soccer and basketball), reading, listening music and playing scrabble
 <!--
